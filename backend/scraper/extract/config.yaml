@@ -1,0 +1,9 @@
+websites:
+  latam:
+    url: https://www.latam.com/
+    queries:
+
+  aeromexico:
+    url: https://www.aeromexico.com/
+    queries:
+
